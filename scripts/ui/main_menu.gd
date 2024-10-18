@@ -1,6 +1,6 @@
 extends Control
 
-
+class_name MainMenu
 
 
 func _on_play_pressed():
